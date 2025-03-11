@@ -12,7 +12,7 @@ information.
 • Automation & code generation – AI-powered SQL query generation, chatbot development.
 • Decision support & recommendations – Personalized career advice, financial report
 insights.
-Deliverables
+## Deliverables
 • A github repo
 • A Jupyter Notebook (or similar) with your analysis, code, and results.
 • A short write-up explaining your approach, challenges, and key takeaways.
